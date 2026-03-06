@@ -15,6 +15,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("test case executing...");
+		logger.info(" second messge to check pipeling");
 		assertEquals(true, true);
 	}
 //	zdcl xvul lsei hsaw
