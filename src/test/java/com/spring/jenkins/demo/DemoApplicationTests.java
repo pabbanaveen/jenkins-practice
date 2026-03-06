@@ -10,11 +10,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest
 class DemoApplicationTests {
 
-	Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
+//	Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
 
 	@Test
 	void contextLoads() {
 		logger.info("test case executing...");
 		assertEquals(true, true);
 	}
+//	zdcl xvul lsei hsaw
+
 }
